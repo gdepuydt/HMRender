@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Layout","Layout defines the size and alignment of the memory we want to allocate."]]});
